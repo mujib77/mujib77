@@ -8,12 +8,12 @@
 
 ### Hi, I'm Mujib 👋
 
-B.Tech Computer Engineering student building Postgres internals tooling in Go. I'm interested in systems engineering, database internals, and open source.
+1st Year B.Tech Computer Engineering student building Postgres internals tooling in Go. I'm interested in systems engineering, database internals, and open source.
 
-- 🔭 Currently building **[Cosmo](https://github.com/mujib77/cosmo)** — real-time PostgreSQL dashboard for the terminal
-- 🌱 Learning **Go, PostgreSQL internals, WAL, MVCC**
-- 💬 Ask me about **PostgreSQL, Go, backend engineering**
-- 📝 I write on **[dev.to/mujib77](https://dev.to/mujib77)**
+-  Currently building **[Cosmo](https://github.com/mujib77/cosmo)** — real-time PostgreSQL dashboard for the terminal
+-  Learning **Go, PostgreSQL internals, WAL, MVCC**
+-  Ask me about **PostgreSQL, Go, backend engineering**
+-  I write on **[dev.to/mujib77](https://dev.to/mujib77)**
 
 ---
 
